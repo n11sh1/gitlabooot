@@ -1,11 +1,20 @@
 # gitlabooot
-"gitlabooot" is a slack bot. It enables semi-automatic version upgrading of self-hosting GitLab by ChatOps.
+"gitlabooot" is a slack bot. It enables semi-automatic version upgrading of self-managed GitLab by ChatOps.
 
-gitlabooot = gitlab + reboot + bot (o is three times)
+> gitlabooot = gitlab + reboot + bot (o is three times)
 
-![semi-automation-by-chatops](https://user-images.githubusercontent.com/17298787/49173904-50b5e580-f388-11e8-9f96-cb81491d3184.jpeg)
+Install GitLab using Docker Compose and `docker-compose.yml` is based on  https://github.com/sameersbn/docker-gitlab.
+
+![semi-automation-by-chatops](https://user-images.githubusercontent.com/17298787/49192968-b4f49b80-f3c0-11e8-82e5-5bf6f6cbefff.jpeg)
 
 # Installation
+## Docker / Docker Compose
+TODO
+
+## GitLab CE
+TODO
+
+## gitlabooot
 TODO
 
 # Configuration
